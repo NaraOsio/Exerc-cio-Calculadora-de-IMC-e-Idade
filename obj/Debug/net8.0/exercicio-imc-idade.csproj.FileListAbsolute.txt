@@ -1,0 +1,14 @@
+C:\Users\nara\Documents\aula 2°semestre C#\exercicio-imc-idade\bin\Debug\net8.0\exercicio-imc-idade.exe
+C:\Users\nara\Documents\aula 2°semestre C#\exercicio-imc-idade\bin\Debug\net8.0\exercicio-imc-idade.deps.json
+C:\Users\nara\Documents\aula 2°semestre C#\exercicio-imc-idade\bin\Debug\net8.0\exercicio-imc-idade.runtimeconfig.json
+C:\Users\nara\Documents\aula 2°semestre C#\exercicio-imc-idade\bin\Debug\net8.0\exercicio-imc-idade.dll
+C:\Users\nara\Documents\aula 2°semestre C#\exercicio-imc-idade\bin\Debug\net8.0\exercicio-imc-idade.pdb
+C:\Users\nara\Documents\aula 2°semestre C#\exercicio-imc-idade\obj\Debug\net8.0\exercicio-imc-idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nara\Documents\aula 2°semestre C#\exercicio-imc-idade\obj\Debug\net8.0\exercicio-imc-idade.AssemblyInfoInputs.cache
+C:\Users\nara\Documents\aula 2°semestre C#\exercicio-imc-idade\obj\Debug\net8.0\exercicio-imc-idade.AssemblyInfo.cs
+C:\Users\nara\Documents\aula 2°semestre C#\exercicio-imc-idade\obj\Debug\net8.0\exercicio-imc-idade.csproj.CoreCompileInputs.cache
+C:\Users\nara\Documents\aula 2°semestre C#\exercicio-imc-idade\obj\Debug\net8.0\exercicio-imc-idade.dll
+C:\Users\nara\Documents\aula 2°semestre C#\exercicio-imc-idade\obj\Debug\net8.0\refint\exercicio-imc-idade.dll
+C:\Users\nara\Documents\aula 2°semestre C#\exercicio-imc-idade\obj\Debug\net8.0\exercicio-imc-idade.pdb
+C:\Users\nara\Documents\aula 2°semestre C#\exercicio-imc-idade\obj\Debug\net8.0\exercicio-imc-idade.genruntimeconfig.cache
+C:\Users\nara\Documents\aula 2°semestre C#\exercicio-imc-idade\obj\Debug\net8.0\ref\exercicio-imc-idade.dll
